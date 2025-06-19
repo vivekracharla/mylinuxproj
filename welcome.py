@@ -16,5 +16,5 @@ numbers = list(map(int, user_input.split()))
 sorted_numbers = quick_sort(numbers)
 
 # Display result
-print("Sorted List:", sorted_numbers)
+print("Sorted List:", sorted_number)
 
